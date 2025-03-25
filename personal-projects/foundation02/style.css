@@ -10,3 +10,8 @@
     font-size: 24px;
     font-family: "Press Start 2P", system-ui; 
 }
+#part4 {
+    background-color: rgb(128, 255, 128);
+    font-size: 24px;
+    font-weight: bold;
+}
