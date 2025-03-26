@@ -1,6 +1,8 @@
-p {
+div p {
     background-color: yellow;
     color: red;
     font-size: 20px;
     text-align: center;
 }
+/* when adding descendants just add a space. A parent and child */
+/* when adding multiple classes just add a space as well */
